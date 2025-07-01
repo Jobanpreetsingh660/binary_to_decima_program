@@ -4,7 +4,7 @@
 #include<conio.h>
 void main()
 {
-long int n,b=0,i=1,r; //intilaized b and i
+long int n,b=0,i=1,r; //intialized b and i
 clrscr();
 printf("Enter the number in binary= ");
 scanf("%ld",&n);
